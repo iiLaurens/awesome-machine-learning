@@ -14,4 +14,5 @@ An article that introduces first principles of performance optimization in deep 
 
 ### Quantization
 [The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/abs/2212.09720)
+
 [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323)

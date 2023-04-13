@@ -9,6 +9,11 @@ An article that introduces first principles of performance optimization in deep 
 [How Nvidia’s CUDA Monopoly In Machine Learning Is Breaking - OpenAI Triton And PyTorch 2.0](https://www.semianalysis.com/p/nvidiaopenaitritonpytorch)
 
 ## Awesome papers
+### LLMs
+[Decoder-Only or Encoder-Decoder? Interpreting Language Model as a Regularized Encoder-Decoder](https://arxiv.org/abs/2304.04052) (2023)
+[Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612) (2023)
+[Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster](https://arxiv.org/abs/2304.03208)
+
 ### Knowledge graphs
 [Crawling the internal knowledge graphs of large language models](https://arxiv.org/abs/2301.12810) 
 

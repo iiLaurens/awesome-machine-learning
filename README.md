@@ -11,7 +11,9 @@ An article that introduces first principles of performance optimization in deep 
 ## Awesome papers
 ### LLMs
 [Decoder-Only or Encoder-Decoder? Interpreting Language Model as a Regularized Encoder-Decoder](https://arxiv.org/abs/2304.04052) (2023)
+
 [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612) (2023)
+
 [Cerebras-GPT: Open Compute-Optimal Language Models Trained on the Cerebras Wafer-Scale Cluster](https://arxiv.org/abs/2304.03208)
 
 ### Knowledge graphs
